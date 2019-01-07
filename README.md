@@ -1,11 +1,11 @@
 # Vocalize Sign Language
-### By Arda Mavi
+### By ENVER ARSLAN
 
-Vocalization sign language with deep learning.
+BÖYLE ÖDEVİN ANASINI SİKİM.
 
-In this project we use our own `Sign Language Dataset`.
+BU PROJE BU AMCIKLA YAPILMIŞ `Sign Language Dataset`.
 
-Vocalization sign language iOS App: [Vocalization-Sign-Language-iOS](https://github.com/ardamavi/Vocalization-Sign-Language-iOS)
+APP STORE BİŞEYLER: [Vocalization-Sign-Language-iOS](https://github.com/ardamavi/Vocalization-Sign-Language-iOS)
 
 |Demo|
 |:-:|
