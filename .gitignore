@@ -1,0 +1,5 @@
+__pycache__
+.DS_Store
+/Data/Train_Data
+/Data/npy_dataset
+/Data/Checkpoints
